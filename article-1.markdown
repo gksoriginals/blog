@@ -65,15 +65,16 @@ The solution presented is not the only solution. For example,
 extension UserDefaults {
     var enableSecretFeatures: Bool {
         get {
-            // #function is a literal expression, which is "the name of the declaration in which it appears", e.g. "enableSecretFeatures"
-            return self.bool(forKey: #function)
+            return self.bool(forKey: "enableSecretFeatures")
         }
         set {
-            self.set(newValue, forKey: #function)
+            self.set(newValue, forKey: "enableSecretFeatures")
         }
     }
 }
 ```
+
+*Note: a previous version of this article suggested using `#function`, but as pointed out by [thisischemistry](https://www.reddit.com/user/thisischemistry), this is dangerous as the function name may be refactored in the future changing the value of `#function`. Lesson learned: don't add code examples when editing a final draft.*
 
 However, regardless of the solution, the goal should be to avoid creating stringly-typed APIs yourself, and to abstract  stringly-typed APIs that you can't avoid using.
 
