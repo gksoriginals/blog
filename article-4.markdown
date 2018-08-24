@@ -21,7 +21,7 @@ We will focus solely on data sources because the approaches will apply to delega
 
 ## Data Sources
 
-![PreviewView example](article4-image-1.png)
+![PreviewView example](article-4-image-1.png)
 
 ```swift
 final class PreviewView: UIView {
