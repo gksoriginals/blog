@@ -3,6 +3,7 @@
 - [Safeguarding Against Stringly-typed APIs in Swift](article-1.markdown)
 - [Result: The Swift Standard Library's Missing Type](article-2.markdown)
 - [Decoding JSON in Swift with JSONDecoder and Decodable](article-3.markdown)
+- [Data Sources and Delegates for Views in Swift](article-4.markdown)
 
 <table>
 <tr>
