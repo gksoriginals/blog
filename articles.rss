@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Oliver Russell White's blog — Articles about Swift, Apple Platforms, and Software Engineering.</title>
+        <link>https://github.com/oliverrussellwhite/blog</link>
+        <description>Articles about Swift, Apple Platforms, and Software Engineering.</description>
+        <item>
+            <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-4.markdown</guid>
+            <title>Data Sources and Delegates for Views in Swift</title>
+            <pubDate>Fri, 24 Aug 2018 16:37:21 +01:00</pubDate>
+            <link>https://github.com/oliverrussellwhite/blog/blob/master/article-4.markdown</link>
+            <description><![CDATA[
+                In <a href="https://github.com/oliverrussellwhite/blog/blob/master/article-4.markdown">this article</a>, we explore modern approaches to creating data sources and delegates for views in Swift.
+            ]]></description>
+        </item>
+        <item>
+            <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-3.markdown</guid>
+            <title>Decoding JSON in Swift with JSONDecoder and Decodable</title>
+            <pubDate>Thu, 23 Aug 2018 19:07:48 +01:00</pubDate>
+            <link>https://github.com/oliverrussellwhite/blog/blob/master/article-3.markdown</link>
+            <description><![CDATA[
+                In <a href="https://github.com/oliverrussellwhite/blog/blob/master/article-3.markdown">this article</a>, we explore decoding JSON with JSONDecoder and the Decodable protocol.
+            ]]></description>
+        </item>
+        <item>
+            <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-2.markdown</guid>
+            <title>Result: The Swift Standard Library's Missing Type</title>
+            <pubDate>Wed, 22 Aug 2018 17:28:47 +01:00</pubDate>
+            <link>https://github.com/oliverrussellwhite/blog/blob/master/article-2.markdown</link>
+            <description><![CDATA[
+                In <a href="https://github.com/oliverrussellwhite/blog/blob/master/article-2.markdown">this article</a>, we explore the concept of a Result type and how it can improve our Swift code.
+            ]]></description>
+        </item>
+        <item>
+            <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-1.markdown</guid>
+            <title>Safeguarding Against Stringly-typed APIs in Swift</title>
+            <pubDate>Tue, 21 Aug 2018 22:47:43 +01:00</pubDate>
+            <link>https://github.com/oliverrussellwhite/blog/blob/master/article-1.markdown</link>
+            <description><![CDATA[
+                In <a href="https://github.com/oliverrussellwhite/blog/blob/master/article-1.markdown">this article</a>, we explore avoiding using strings as identifiers / keys, using the available palette of Swift tools.
+            ]]></description>
+        </item>
+    </channel>
+</rss>
