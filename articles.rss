@@ -5,6 +5,15 @@
         <link>https://github.com/oliverrussellwhite/blog</link>
         <description>Articles about Swift, Apple Platforms, and Software Engineering.</description>
         <item>
+            <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-5.markdown</guid>
+            <title>Initialization in Swift</title>
+            <pubDate>Thu, 11 Oct 2018 21:39:43 +01:00</pubDate>
+            <link>https://github.com/oliverrussellwhite/blog/blob/master/article-5.markdown</link>
+            <description><![CDATA[
+                In <a href="https://github.com/oliverrussellwhite/blog/blob/master/article-5.markdown">this article</a>, we explore initializing in Swift, including enums, structs, classes, designated & convenience initialize, and failable initializers.
+            ]]></description>
+        </item>
+        <item>
             <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-4.markdown</guid>
             <title>Data Sources and Delegates for Views in Swift</title>
             <pubDate>Fri, 24 Aug 2018 16:37:21 +01:00</pubDate>
