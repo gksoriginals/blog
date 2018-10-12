@@ -8,7 +8,7 @@ In Swift, a tuple is also a finite ordered list of elements.
 let person = ("Oliver", 32)
 ```
 
-A tuple can contain one or more values, of any type. It's syntax is a comma seperator list of elements, enclosed in parentheses.
+A tuple can contain two or more values, of any type. It's syntax is a comma seperator list of elements, enclosed in parentheses.
 
 ```swift
 person.0 // "Oliver"
