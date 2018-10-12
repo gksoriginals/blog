@@ -5,6 +5,7 @@
 - [Decoding JSON in Swift with JSONDecoder and Decodable](article-3.markdown)
 - [Data Sources and Delegates for Views in Swift](article-4.markdown)
 - [Initialization in Swift](article-5.markdown)
+- [Tuples in Swift](article-6.markdown)
 
 <table>
 <tr>

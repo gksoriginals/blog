@@ -5,6 +5,15 @@
         <link>https://github.com/oliverrussellwhite/blog</link>
         <description>Articles about Swift, Apple Platforms, and Software Engineering.</description>
         <item>
+            <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-6.markdown</guid>
+            <title>Tuples in Swift</title>
+            <pubDate>Thu, 11 Oct 2018 21:39:43 +01:00</pubDate>
+            <link>https://github.com/oliverrussellwhite/blog/blob/master/article-6.markdown</link>
+            <description><![CDATA[
+                In <a href="https://github.com/oliverrussellwhite/blog/blob/master/article-6.markdown">this article</a>, we explore tuples in Swift.
+            ]]></description>
+        </item>
+        <item>
             <guid>https://github.com/oliverrussellwhite/blog/blob/master/article-5.markdown</guid>
             <title>Initialization in Swift</title>
             <pubDate>Thu, 11 Oct 2018 21:39:43 +01:00</pubDate>
